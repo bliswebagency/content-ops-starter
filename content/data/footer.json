@@ -58,7 +58,7 @@
             },
             {
                 "type": "Link",
-                "label": "See Tutorials",
+                "label": "Demo",
                 "altText": "",
                 "url": "/demo",
                 "showIcon": false,
