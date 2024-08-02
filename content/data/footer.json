@@ -40,6 +40,14 @@
         "title": "Company",
         "links": [
             {
+                "label": "Blog",
+                "url": "/blog",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
                 "label": "Careers",
                 "altText": "careers page",
                 "url": "/careers",
@@ -49,12 +57,15 @@
                 "type": "Link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "type": "Link",
+                "label": "Demo",
+                "altText": "",
+                "url": "/demo",
+                "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
