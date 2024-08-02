@@ -114,7 +114,7 @@ sections:
           - Feature two
           - Feature three
           - Feature four
-          - ''
+          - jikkkk
         image:
           type: ImageBlock
           altText: Pricing plan 2
