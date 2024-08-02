@@ -9,7 +9,7 @@ export default function DividerSection(props) {
 
     return (
         <Section elementId={elementId} className="sb-component-divider-section" colors={colors} styles={styles?.self} {...getDataAttrs(props)}>
-            <div className={classNames('sb-divider', 'h-0', 'w-full', 'border-t')}></div>
+            <div className={classNames('sb-divider', 'h-0', 'w-full', 'border-t')}>DIVIDER</div>
         </Section>
     );
 }
