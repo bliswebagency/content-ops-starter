@@ -111,10 +111,10 @@ sections:
           accusantium doloremque.
         features:
           - Feature one
+          - jikkkk
           - Feature two
           - Feature three
           - Feature four
-          - jikkkk
         image:
           type: ImageBlock
           altText: Pricing plan 2
