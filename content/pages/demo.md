@@ -49,6 +49,17 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
 slug: demo
 isDraft: false
 seo:
